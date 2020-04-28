@@ -1,6 +1,8 @@
 import React from 'react';
 
+
 const Header = props => {
+  
   return (
     <>
       <figure className="image is-128x128">
@@ -11,5 +13,6 @@ const Header = props => {
     </>
   );
 };
+
 
 export default Header;
